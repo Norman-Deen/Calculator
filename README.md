@@ -44,7 +44,7 @@ Operation: /
 ## 🛠️ Tech
 
 * Language: **C#**
-* Framework: **.NET 6+**
+* Framework: **.NET 8**
 * Platform: **Console Application**
 
 ---
