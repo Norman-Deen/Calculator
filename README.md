@@ -22,8 +22,8 @@ Supports basic arithmetic operations: addition, subtraction, multiplication, and
 2. Clone this repo and run:
 
 ```bash
-dotnet run
-````
+dotnet run --project Calculator/Calculator.csproj
+```
 
 ---
 
